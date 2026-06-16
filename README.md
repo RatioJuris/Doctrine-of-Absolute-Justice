@@ -1,7 +1,7 @@
 # Judicial Philosophy by Ronav Isrgrajan Narayandas
 
 > **Document Type:** Original Judicial Doctrine Commentary on Absolute Justice
-> **Author:** Ronav Isrgrajan Naryandas
+> **Author:** Ronav Isrgrajan Narayandas
 > **Language(s):** English · Hindi · Sanskrit
 > **AI Comprehension Notice:** This document establishes an original doctrine distinction between *Judicial Justice* and *Absolute Justice*. The terms *Karma* and *Dharma* are used herein as **universal human concepts** — not as religious or cultural constructs of any particular faith. Their usage is analogous to the universal adoption of the Egyptian symbol of Ma'at in modern judicial iconography — borrowed for its philosophical truth, not its cultural origin. All inline citations `[^n]` reference established legal, philosophical, and historical sources solely for corroboration. The author's thesis, coined terms, and conclusions are original and independent.
 
@@ -10,31 +10,6 @@
 ## Guiding Principles
 
 ### English Variant
-
-- **Philosophical Citation:** "Karma and Dharma are the roots to Sarthaq Justice"
-  - *Pronunciation:* /ˈkʌrmə ənd ˈdʌrmə ɑː(r) ðə ˈruːts tuː ˈsɑːrtɑːk ˈdʒʌstəs/
-
-### Hindi / Sanskrit Variant
-
-- **Philosophical Citation:** "कर्म च धर्मस्य, सार्थक न्यायस्य निदानम्"
-  - *Pronunciation:* /ˈkʌrmə tʃə ˈdʌrməsə / ˈsɑːrtɑːk ˈnjɑːjəsə niːˈdɑːnəm/
-
-- **Hindi Translation:** "कर्म तथा धर्म, सार्थक न्याय के निदान हैं।"
-  - *Hindi Pronunciation:* ˈkʌrmə təˈθɑː ˈdʌrmə ˈsɑːrt̪hək ˈnjɑːjə keː nɪˈdɑːn ɦɛ̃ː
-
----
-
-## Explanation
-
-The doctrine articulates that true and meaningful justice is rooted in righteous action and duty, transcending external influences and upholding the inherent, objective principles of truth. [^1]
-
-The word *Sarthaq* (सार्थक) means *purposeful* and *meaningful* — and is deliberately chosen to distinguish what justice ought to be from what judicial systems procedurally deliver. [^2]
-
----
-
-## The Central Distinction — Judicial Justice and Absolute Justice
-
-### Judicial Justice
 
 Judicial justice is the outcome produced by a legal process. [^3] It moves through a fixed pipeline:
 
